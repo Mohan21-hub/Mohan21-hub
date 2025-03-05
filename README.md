@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="center">Hi 👋! My name is Mohan and I'm a full-stack developer, from giet engineering college.</h2>
 
 ###
 
